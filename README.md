@@ -1,4 +1,4 @@
-#CMake and Conan
+#CMake tutorial
 Here is my tutorial on CMake and Conan. I've revamped the official CMake tutorial and extensively utilized ChatGPT to craft a quality text. Tutorial applicable to Windows OS.
 
 ##CMake
