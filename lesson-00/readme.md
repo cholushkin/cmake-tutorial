@@ -37,4 +37,4 @@ This command should display the CMake version if it was correctly added to the P
 # What next?
 Let's suppose I want to start a C++ project and compile it, but I'm not keen on manually configuring the build and solution settings, especially since these can vary between different versions of Visual Studio. Moreover, it becomes even more complicated if you're working in a team where everyone prefers using different IDEs.
 
-[Lesson 1](../lesson-01/lesson-01-readme.md)
+[Lesson 1](../lesson-01/readme.md)
