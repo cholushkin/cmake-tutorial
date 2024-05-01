@@ -2,11 +2,10 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Create a project named Tutorial
-# Provide optional descrition
+# Provide optional description
 project(Tutorial DESCRIPTION "Example c++ program")
 
-# TODO 3: Add an executable called Tutorial to the project
-# Hint: Be sure to specify the source file as tutorial.cxx
+# Add an executable called Tutorial to the project
 add_executable(Tutorial tutorial.cpp)
 
 # Print configuration message

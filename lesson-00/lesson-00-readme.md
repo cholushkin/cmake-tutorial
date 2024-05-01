@@ -12,7 +12,7 @@ To install CMake, follow these steps:
 
 ## Step 2: Add CMake to the System PATH
 
-To ensure that you can call `cmake` from the command line, you need to add it to your system PATH. Here are the instructions to do this on Windows:
+To ensure that you can call `cmake` from the command line, you need to add it to your system `PATH`. Here are the instructions to do this on Windows:
 
 1. After installation, locate the directory where CMake was installed. This is usually `C:\Program Files\CMake\bin`.
 2. Copy the path to the clipboard.
@@ -22,13 +22,19 @@ To ensure that you can call `cmake` from the command line, you need to add it to
 6. In the Edit Environment Variable window, click **New** and paste the path you copied earlier.
 7. Click **OK** to close all dialog boxes and apply the changes.
 
-Alternatively, you can execute the add-cmake-to-path.ps1 script in PowerShell with administrative privileges.
+Alternatively, you can execute the `add-cmake-to-path.ps1` script in PowerShell with administrative privileges.
 
 
 # Verification
 To verify that CMake has been successfully added to your PATH, open a new terminal or command prompt and type:
 
-cmake --version
+`cmake --version`
+
 This command should display the CMake version if it was correctly added to the PATH.
 
+![Screenshot 1](documentation/Screenshot_1.png)
 
+# What next?
+Let's suppose I want to start a C++ project and compile it, but I'm not keen on manually configuring the build and solution settings, especially since these can vary between different versions of Visual Studio. Moreover, it becomes even more complicated if you're working in a team where everyone prefers using different IDEs.
+
+[Lesson 1](../lesson-01/lesson-01-readme.md)

@@ -14,7 +14,6 @@ function SplitPath {
 }
 
 
-
 # Get the current system PATH
 $Path = [System.Environment]::GetEnvironmentVariable('Path', 'Machine')
 
