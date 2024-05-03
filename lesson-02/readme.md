@@ -45,9 +45,11 @@ Disabling the ALL_BUILD target isn't directly supported by a single CMake variab
 
 ## Example of powershell output
 Here is what you might expect to see if the build proceeds without issues:
+
 ![Screenshot 1](documentation/Screenshot_1.png)
 
 The SampleGame project filters will look like this:
+
 ![Screenshot 2](documentation/Screenshot_2.png)
 
 # What next?
