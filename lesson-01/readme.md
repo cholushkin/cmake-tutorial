@@ -31,6 +31,12 @@ The `ZERO_CHECK` project is created by CMake to ensure that the build system fil
 * `ALL_BUILD`
 The `ALL_BUILD` project is essentially a virtual project that CMake includes as a convenient way to build all the targets in your solution with a single action. When you build the `ALL_BUILD` project, it triggers the compilation of all defined targets in your project. This is especially useful in complex projects with multiple executables or libraries, as it allows you to rebuild everything from scratch with a single build command.
 
+## Example of powershell output
+If everything proceeds as expected, here is an example of the output you might see:
+
+![Screenshot 1](documentation/Screenshot_2.png)
+
+
 # What next?
 What if I prefer not to include these projects? 
 What if I want to introduce different filters into the solution?
