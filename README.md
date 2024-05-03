@@ -12,3 +12,5 @@ Conan is an open-source, decentralized package manager for C and C++ languages. 
 [Lesson 0. Install CMake](lesson-00/readme.md)
 
 [Lesson 1. Basic project configuration](lesson-01/readme.md)
+
+[Lesson 2. More project configuration](lesson-02/readme.md)
