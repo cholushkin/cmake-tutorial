@@ -42,4 +42,4 @@ What if I prefer not to include these projects?
 What if I want to introduce different filters into the solution?
 How can I designate separate directories for my source files?
 
-[Lesson 2](../lesson-02/readme.md)
+[Lesson 2](https://github.com/cholushkin/cmake-tutorial/tree/master/lesson-02)
