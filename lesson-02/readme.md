@@ -55,4 +55,4 @@ The SampleGame project filters will look like this:
 # What next?
 What if you need to integrate a third-party library, such as GLFW for OpenGL rendering?
 
-[Lesson 3](../lesson-03/readme.md)
+[Lesson 3](https://github.com/cholushkin/cmake-tutorial/tree/master/lesson-03)
