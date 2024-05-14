@@ -10,3 +10,5 @@ CMake is a cross-platform build system generator. It is used to control the soft
 [Lesson 1. Basic project configuration](lesson-01/readme.md)
 
 [Lesson 2. More project configuration](lesson-02/readme.md)
+
+[Lesson 3. Integrating a third-party library](lesson-03/readme.md))
